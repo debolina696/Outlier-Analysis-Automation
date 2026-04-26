@@ -161,7 +161,8 @@ The project includes a multi-page interactive dashboard.
 
 ## Page 1 — Sales Overview Dashboard
 
-Includes: Dasboard - ![Uploading Sales_dashboard.jpeg…]()
+Includes: Dasboard - <img width="1600" height="884" alt="Sales_dashboard" src="https://github.com/user-attachments/assets/d7e2a3eb-d139-4cc9-a46a-917dbe08d40e" />
+
 
 
 - Total Revenue KPI

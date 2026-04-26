@@ -1,0 +1,39 @@
+paths:
+
+  raw_data: data/raw
+
+  processed_data: data/processed
+
+  archive_data: data/archive
+
+  charts: outputs/charts
+
+  reports: outputs/reports
+
+  logs: logs
+
+
+cleaning:
+
+  drop_duplicates: True
+
+  fill_missing:
+
+    CustomerID: 0
+
+  remove_negative_values:
+
+    - Quantity
+    - UnitPrice
+
+
+outliers:
+
+  method: IQR
+
+  columns:
+
+    - Quantity
+    - UnitPrice
+
+  iqr_multiplier: 1.5

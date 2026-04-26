@@ -179,7 +179,8 @@ Includes: Dasboard - <img width="1600" height="884" alt="Sales_dashboard" src="h
 
 ## Page 2 — Product Analysis Dashboard
 
-Includes: Dshboard - "C:\Users\Debolina\OneDrive\Desktop\Product_analysis.jpeg"
+Includes: Dshboard - <img width="1549" height="883" alt="Product_analysis" src="https://github.com/user-attachments/assets/927ce9ca-a4bd-4e1a-9344-3bb7b763d44f" />
+
 
 - Product Revenue Distribution
 - Monthly Quantity Trends
@@ -190,7 +191,8 @@ Includes: Dshboard - "C:\Users\Debolina\OneDrive\Desktop\Product_analysis.jpeg"
 
 ## Page 3 — Customer & Country Analysis
 
-Includes: "C:\Users\Debolina\OneDrive\Desktop\Country & Customer Analysis.jpeg"
+Includes: <img width="1489" height="857" alt="Country   Customer Analysis" src="https://github.com/user-attachments/assets/64bb74f7-8b91-4a3c-abe0-4032d27e952e" />
+
 
 - Revenue by Country
 - Customer Distribution
@@ -200,7 +202,8 @@ Includes: "C:\Users\Debolina\OneDrive\Desktop\Country & Customer Analysis.jpeg"
 ---
 
 ## Page 4 — Business Insights Summary
-Dashboard - "C:\Users\Debolina\OneDrive\Desktop\Business Insights.jpeg"
+Dashboard - <img width="1421" height="949" alt="Business Insights" src="https://github.com/user-attachments/assets/2a25e9f9-dcdc-4565-9f00-9cce6e23f430" />
+
 
 Key insights generated from analysis:
 

@@ -1,0 +1,33 @@
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Logs
+logs/
+*.log
+
+# Processed data
+data/processed/
+data/archive/
+
+# Output charts & reports
+outputs/charts/
+outputs/reports/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/

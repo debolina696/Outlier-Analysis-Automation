@@ -161,7 +161,8 @@ The project includes a multi-page interactive dashboard.
 
 ## Page 1 — Sales Overview Dashboard
 
-Includes: Dasboard - "C:\Users\Debolina\OneDrive\Desktop\Sales_dashboard.jpeg"
+Includes: Dasboard - ![Uploading Sales_dashboard.jpeg…]()
+
 
 - Total Revenue KPI
 - Total Orders KPI

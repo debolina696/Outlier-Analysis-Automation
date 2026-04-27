@@ -1,0 +1,9 @@
+Column,Missing Values,Unique Values,Data Type,Mean,Min,Max
+InvoiceNo,0,8958,object,,,
+StockCode,0,3268,object,,,
+Description,239,3253,object,,,
+Quantity,0,23,int64,4.8673825036209815,1.0,23.0
+InvoiceDate,0,8335,object,,,
+UnitPrice,0,217,float64,2.785816658051375,0.0,8.33
+CustomerID,0,2822,float64,10742.580349968524,0.0,18287.0
+Country,0,38,object,,,

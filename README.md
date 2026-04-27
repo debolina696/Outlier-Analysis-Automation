@@ -238,12 +238,14 @@ data/processed/cleaned_data_TIMESTAMP.csv
 
 ### Charts
 
-outputs/charts/
+outputs/charts/ 
 
 Includes:
 
-- Quantity Boxplot
-- Unit Price Histogram
+- Quantity Boxplot      <img width="640" height="480" alt="quantity_boxplot_20260424_051639" src="https://github.com/user-attachments/assets/983a4ffc-a749-458e-844a-09ed3f044349" />
+
+- Unit Price Histogram     <img width="640" height="480" alt="unitprice_histogram_20260424_051639" src="https://github.com/user-attachments/assets/2be5cf30-fa1c-4f70-838f-cea4504e0ec0" />
+
 
 ---
 
